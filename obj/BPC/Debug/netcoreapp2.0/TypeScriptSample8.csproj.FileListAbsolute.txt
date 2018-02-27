@@ -1,0 +1,10 @@
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\bin\BPC\Debug\netcoreapp2.0\TypeScriptSample8.deps.json
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\bin\BPC\Debug\netcoreapp2.0\TypeScriptSample8.runtimeconfig.json
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\bin\BPC\Debug\netcoreapp2.0\TypeScriptSample8.runtimeconfig.dev.json
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\bin\BPC\Debug\netcoreapp2.0\TypeScriptSample8.dll
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\bin\BPC\Debug\netcoreapp2.0\TypeScriptSample8.pdb
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\obj\BPC\Debug\netcoreapp2.0\TypeScriptSample8.csproj.CoreCompileInputs.cache
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\obj\BPC\Debug\netcoreapp2.0\TypeScriptSample8.AssemblyInfoInputs.cache
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\obj\BPC\Debug\netcoreapp2.0\TypeScriptSample8.AssemblyInfo.cs
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\obj\BPC\Debug\netcoreapp2.0\TypeScriptSample8.dll
+C:\Users\r.kamakura\Desktop\TypeScriptSample8\TypeScriptSample8\obj\BPC\Debug\netcoreapp2.0\TypeScriptSample8.pdb
